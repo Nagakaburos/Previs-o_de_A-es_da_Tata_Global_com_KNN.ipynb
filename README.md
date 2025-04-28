@@ -1,2 +1,12 @@
-# Previs-o_de_A-es_da_Tata_Global_com_KNN.ipynb
-This project uses the K-Nearest Neighbors (KNN) algorithm to predict the stock movements of Tata Global Beverages on the NSE. It includes both classification (buy/sell prediction) and regression (future closing price prediction) tasks. Model optimization was performed using GridSearchCV.
+Tata Global Stock Prediction with KNN
+
+This project applies the K-Nearest Neighbors (KNN) algorithm to predict the movements of Tata Global Beverages stock on the Indian stock market (NSE) using historical data. The project is divided into two main tasks:
+
+Classification: Predict whether the movement will be buy (+1) or sell (-1).
+
+Regression: Estimate the future closing price of the stock.
+
+Modeling was done using Scikit-learn, and hyperparameter optimization was performed using GridSearchCV.
+
+Project Source:
+This project was developed as part of a tutorial, available on YouTube: https://youtu.be/tn07dCSFOfQ?feature=shared
